@@ -25,11 +25,19 @@
          </dependency>
 
         <!-- TOOLS:  DataStax Graph Connector -->
+        <!-- Drivers: Java and Graph -->
         <dependency>
             <groupId>com.datastax.dse</groupId>
             <artifactId>dse-java-driver-core</artifactId>
             <version>1.4.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.datastax.dse</groupId>
+            <artifactId>dse-java-driver-graph</artifactId>
+            <version>1.4.0</version>
+        </dependency>
+
    
     </dependencies>
 
