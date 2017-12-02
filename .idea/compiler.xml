@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cx20-graphdb-dsl" target="$1.8" />
+      <module name="cx20-graphdb-dsl" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
